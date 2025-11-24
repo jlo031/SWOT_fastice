@@ -1,0 +1,7 @@
+water (calm)
+water (wind)
+brash ice 1
+brash ice 2
+level ice
+deformed ice
+iceberg

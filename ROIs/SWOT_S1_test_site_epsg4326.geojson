@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SWOT_S1_test_site_epsg4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 58.840695491655616, -67.170789229980798 ], [ 67.285587646832766, -68.784345905430968 ], [ 70.559965171823805, -65.47798266402495 ], [ 62.987334652061463, -64.089727418358379 ], [ 58.840695491655616, -67.170789229980798 ] ] ] } }
+]
+}

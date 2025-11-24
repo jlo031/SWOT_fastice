@@ -1,0 +1,22 @@
+{
+    "WORK_DIR": "/home/581/jl0818/work/SWOT_fastice",
+    "DATA_DIR": "/g/data/gv90/jw2777/SWOT_SEAICE/DATA/",
+    "sub_dirs": {
+        "ROI_ANALYSIS": "roi_analysis",
+        "S1": "Sentinel-1",
+        "SWOT_L2_D": "L2_D",
+        "SWOT_L2_D_Expert": "SWOT_L2_D_Expert",
+        "SWOT_L2_D_Expert_cropped": "SWOT_L2_D_Expert_cropped",
+        "SWOT_L2_D_Unsmoothed": "SWOT_L2_D_Unsmoothed",
+        "SWOT_L2_D_Unsmoothed_cropped": "SWOT_L2_D_Unsmoothed_cropped",
+        "SWOT_SWATHS_ssha_sig0_coherence": "SWOT_SWATHS_ssha_sig0_coherence",
+        "SWOT_GEOTIFF_DIR": "SWOT_geotiff",
+        "S1_subdirs": {
+            "L1": "L1",
+            "FEAT": "features",
+            "GEO": "geocoded",
+            "RGB": "RGB",
+            "TRAIN": "training"
+        }
+    }
+}
