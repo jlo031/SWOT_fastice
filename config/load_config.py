@@ -19,6 +19,9 @@ WORK_DIR = Path(config["WORK_DIR"])
 # Main project dir
 DATA_DIR = Path(config["DATA_DIR"])
 
+# GA processed data dir
+GA_DATA_DIR = Path(config["GA_DATA_DIR"])
+
 # Sub-dirs
 ROI_ANALYSIS_DIR                = DATA_DIR / config["sub_dirs"]["ROI_ANALYSIS"]
 S1_DIR                          = DATA_DIR / config["sub_dirs"]["S1"]

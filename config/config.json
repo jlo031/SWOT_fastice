@@ -1,6 +1,7 @@
 {
     "WORK_DIR": "/home/581/jl0818/work/SWOT_fastice",
     "DATA_DIR": "/g/data/gv90/jw2777/SWOT_SEAICE/DATA/",
+    "GA_DATA_DIR": "/g/data/yp75/projects/sar-antarctica-processing/utas/johannes_ew_request/data/processed_scene",
     "sub_dirs": {
         "ROI_ANALYSIS": "roi_analysis",
         "S1": "Sentinel-1",
